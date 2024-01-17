@@ -1,0 +1,17 @@
+#Principal{
+    background: black;
+    color: blueviolet;
+    border: solid 2px;
+    border-color: blueviolet;
+}
+
+.Letra{
+    font-family: 'Courier New', Courier, monospace;
+    border: solid 2px;
+    border-color: blueviolet;
+}
+
+.rojo{
+    background: red;
+    color: white;
+}
